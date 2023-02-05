@@ -1,0 +1,5 @@
+id,titre,date,surface,description,prix,categorie,type,imageprincip,contact_id,localisation_id
+36,"F4 alger",2023-01-20,120,"jolie f4 a alger ",140000.00,Vente,Maison,uploads/images/h1.jfif,2,30
+37,"Villa Boumerdes",2023-02-01,200,"Villa a dellys 8 chambres",25000.00,Location,Maison,uploads/images/h6.jpg,3,31
+38,Terrain,2023-02-04,1400,"Terrain a Rouiba",40000.00,,,uploads/images/t1.jfif,3,32
+39,"Bungalow ",2023-02-04,50,"Bungalow a skikda mer",15000.00,Location_vacances,Bungalow,uploads/images/b1.jfif,2,33

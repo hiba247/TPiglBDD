@@ -1,0 +1,527 @@
+id,commune,wilaya_id
+1,Timekten,1
+2,Bouda,1
+3,"Ouled Ahmed Timmi",1
+4,Adrar,1
+5,Fenoughil,1
+6,"In Zghmir",1
+7,Reggane,1
+8,Sali,1
+9,Sebaa,1
+10,Tsabit,1
+11,Tamest,1
+12,Tamantit,1
+13,Tit,1
+14,"Zaouiet Kounta",1
+15,Akabli,1
+16,Aoulef,1
+17,Talassa,2
+18,Zeboudja,2
+19,"El Hadjadj",2
+20,"Ouled Ben Abdelkader",2
+21,"Ain Merane",2
+22,Breira,2
+23,"Ouled Abbes",2
+24,"Oued Fodda",2
+25,"Beni Rached",2
+26,Herenfa,2
+27,Tadjena,2
+28,"El Marsa",2
+29,Chlef,2
+30,"Oum Drou",2
+31,Sendjas,2
+32,"Sidi Abderrahmane",2
+33,"Sidi Akkacha",2
+34,Tenes,2
+35,"Beni  Bouattab",2
+36,"El Karimia",2
+37,Harchoun,2
+38,Bouzeghaia,2
+39,Taougrit,2
+40,"Beni Haoua",2
+41,"Abou El Hassane",2
+42,"Oued Goussine",2
+43,Chettia,2
+44,Moussadek,2
+45,"Ouled Fares",2
+46,Boukadir,2
+47,"Oued Sly",2
+48,Sobha,2
+49,Benairia,2
+50,"Labiod Medjadja",2
+51,Dahra,2
+52,"El Beidha",3
+53,"Gueltat Sidi Saad",3
+54,Brida,3
+55,"Ain Sidi Ali",3
+56,Tadjemout,3
+57,"Hadj Mechri",3
+58,Taouiala,3
+59,"El Ghicha",3
+60,Tadjrouna,3
+61,Sebgag,3
+62,"Sidi Bouzid",3
+63,"Oued Morra",3
+64,Laghouat,3
+65,"Oued M'zi",3
+66,"Ksar El Hirane",3
+67,"El Assafia",3
+68,"Sidi Makhlouf",3
+69,"Hassi Delaa",3
+70,"Hassi R'mel",3
+71,"Ain Madhi",3
+72,"El Haouaita",3
+73,Kheneg,3
+74,"Benacer Benchohra",3
+75,Aflou,3
+76,Fkirina,4
+77,"El Fedjoudj Boughrara Sa",4
+78,"Ain Fekroun",4
+79,Rahia,4
+80,Meskiana,4
+81,"El Belala",4
+82,"Behir Chergui",4
+83,"Ksar Sbahi",4
+84,"Souk Naamane",4
+85,"Ouled Zouai",4
+86,"Oum El Bouaghi",4
+87,"Ain Babouche",4
+88,"Ain Zitoun",4
+89,"Bir Chouhada",4
+90,"Ain Beida",4
+91,Berriche,4
+92,Zorg,4
+93,"Ain M'lila",4
+94,"Ouled Gacem",4
+95,"Ouled Hamla",4
+96,"El Amiria",4
+97,Sigus,4
+98,"Oued Nini",4
+99,"Ain Diss",4
+100,Dhalaa,4
+101,"El Djazia",4
+102,"Ain Kercha",4
+103,"El Harmilia",4
+104,"Hanchir Toumghani",4
+105,Maafa,5
+106,Gosbat,5
+107,Timgad,5
+108,Taxlent,5
+109,"Ouled Si Slimane",5
+110,Lemcene,5
+111,Talkhamt,5
+112,"Ras El Aioun",5
+113,Rahbat,5
+114,"Ouled Sellem",5
+115,Guigba,5
+116,"Teniet El Abed",5
+117,Batna,5
+118,Fesdis,5
+119,"Oued Chaaba",5
+120,Hidoussa,5
+121,"Ksar Bellezma",5
+122,Merouana,5
+123,"Oued El Ma",5
+124,Lazrou,5
+125,Seriana,5
+126,"Zanet El Beida",5
+127,Menaa,5
+128,Tigharghar,5
+129,"Ain Yagout",5
+130,Boumia,5
+131,Djerma,5
+132,"El Madher",5
+133,"Ouyoun El Assafir",5
+134,Tazoult,5
+135,Boumagueur,5
+136,"N Gaous",5
+137,Sefiane,5
+138,Arris,5
+139,Tighanimine,5
+140,"Ain Djasser",5
+141,"El Hassi",5
+142,Seggana,5
+143,Tilatou,5
+144,"Foum Toub",5
+145,Ichemoul,5
+146,Inoughissen,5
+147,Bouzina,5
+148,Larbaa,5
+149,Boulhilat,5
+150,Chemora,5
+151,Barika,5
+152,Bitam,5
+153,"M Doukal",5
+154,"Azil Abedelkader",5
+155,Djezzar,5
+156,"Ouled Ammar",5
+157,Ghassira,5
+158,Kimmel,5
+159,"T Kout",5
+160,"Ain Touta",5
+161,"Beni Foudhala El Hakania",5
+162,"Ouled Fadel",5
+163,"Ouled Aouf",5
+164,Chir,5
+165,"Oued Taga",5
+166,"Sidi Ayad",6
+167,Barbacha,6
+168,Leflaye,6
+169,Kendira,6
+170,Sidi-Aich,6
+171,Tifra,6
+172,Tinebdar,6
+173,"El Kseur",6
+174,"Fenaia Il Maten",6
+175,Toudja,6
+176,"Dra El Caid",6
+177,Kherrata,6
+178,Bejaia,6
+179,"Oued Ghir",6
+180,Benimaouche,6
+181,"Beni Djellil",6
+182,Feraoun,6
+183,Smaoun,6
+184,Timezrit,6
+185,Melbou,6
+186,"Souk El Tenine",6
+187,Tamridjet,6
+188,Boukhelifa,6
+189,"Tala Hamza",6
+190,Tichy,6
+191,"Ait R'zine",6
+192,Ighil-Ali,6
+193,Ait-Smail,6
+194,Darguina,6
+195,Taskriout,6
+196,Aokas,6
+197,Tizi-N'berber,6
+198,Adekar,6
+199,"Beni K'sila",6
+200,"Taourit Ighil",6
+201,Akbou,6
+202,Chellata,6
+203,Ighram,6
+204,Tamokra,6
+205,Amalou,6
+206,Bouhamza,6
+207,M'cisna,6
+208,Seddouk,6
+209,Beni-Mallikeche,6
+210,Boudjellil,6
+211,Tazmalt,6
+212,Akfadou,6
+213,Chemini,6
+214,"Souk Oufella",6
+215,Tibane,6
+216,Ouzellaguen,6
+217,Amizour,6
+218,"El Feidh",7
+219,Lichana,7
+220,Bouchakroun,7
+221,Mekhadma,7
+222,Djemorah,7
+223,Branis,7
+224,"El Outaya",7
+225,"El Kantara",7
+226,"Khenguet Sidi Nadji",7
+227,"Ain Zaatout",7
+228,"Zeribet El Oued",7
+229,Meziraa,7
+230,Biskra,7
+231,"El Hadjab",7
+232,M'lili,7
+233,Foughala,7
+234,"El Ghrous",7
+235,"Bordj Ben Azzouz",7
+236,Ourlal,7
+237,Oumache,7
+238,"Ain Naga",7
+239,Chetma,7
+240,"El Haouch",7
+241,"Sidi Okba",7
+242,M'chouneche,7
+243,Lioua,7
+244,Tolga,7
+245,Bechar,8
+246,Boukais,8
+247,Lahmar,8
+248,Mogheul,8
+249,Meridja,8
+250,Taghit,8
+251,Abadla,8
+252,Erg-Ferradj,8
+253,Machraa-Houari-Boumediene,8
+254,Beni-Ounif,8
+255,Tabelbala,8
+256,Kenadsa,8
+257,"Beni Mered",9
+258,"Ouled Slama",9
+259,Mouzaia,9
+260,"Hammam Elouane",9
+261,Bougara,9
+262,Souhane,9
+263,Larbaa,9
+264,Soumaa,9
+265,Guerrouaou,9
+266,Boufarik,9
+267,Meftah,9
+268,Chiffa,9
+269,"Ain Romana",9
+270,"Oued  Djer",9
+271,El-Affroun,9
+272,"Ouled Yaich",9
+273,Chrea,9
+274,Djebabra,9
+275,"Oued El Alleug",9
+276,Benkhelil,9
+277,Beni-Tamou,9
+278,Chebli,9
+279,Bouinan,9
+280,Bouarfa,9
+281,Blida,9
+282,"Ain Laloui",10
+283,"Hadjera Zerga",10
+284,Mezdour,10
+285,Taguedite,10
+286,Ridane,10
+287,Maamora,10
+288,El-Hakimia,10
+289,"Ahl El Ksar",10
+290,Dirah,10
+291,Dechmia,10
+292,Bechloul,10
+293,"Ath Mansour",10
+294,Saharidj,10
+295,"El Adjiba",10
+296,"El Asnam",10
+297,"M Chedallah",10
+298,"Bordj Okhriss",10
+299,"Sour El Ghozlane",10
+300,Hanif,10
+301,Chorfa,10
+302,"Ouled Rached",10
+303,"Ain El Hadjar",10
+304,Aghbalou,10
+305,Raouraoua,10
+306,"El Khabouzia",10
+307,"Bir Ghbalou",10
+308,Bouira,10
+309,"Ain Turk",10
+310,"Ait Laaziz",10
+311,Ain-Bessem,10
+312,El-Mokrani,10
+313,"Souk El Khemis",10
+314,Aomar,10
+315,Djebahia,10
+316,"El Hachimia",10
+317,Haizer,10
+318,Taghzout,10
+319,Bouderbala,10
+320,Boukram,10
+321,Guerrouma,10
+322,Lakhdaria,10
+323,Maala,10
+324,Kadiria,10
+325,"Z'barbar (El Isseri )",10
+326,"Oued El Berdi",10
+327,Tazrouk,11
+328,Abelsa,11
+329,Tamanrasset,11
+330,"Ain Amguel",11
+331,Idles,11
+332,El-Houidjbet,12
+333,El-Aouinet,12
+334,Ferkane,12
+335,Negrine,12
+336,"Bir Mokkadem",12
+337,"Bir Dheheb",12
+338,"Saf Saf El Ouesra",12
+339,Guorriguer,12
+340,Bekkaria,12
+341,"Boulhaf Dyr",12
+342,"Oum Ali",12
+343,Boukhadra,12
+344,"El Malabiod",12
+345,Ouenza,12
+346,"El Meridj",12
+347,"Ain Zerga",12
+348,"Stah Guentis",12
+349,"El Ogla",12
+350,"El Mezeraa",12
+351,Bedjene,12
+352,Morsott,12
+353,Telidjen,12
+354,Cheria,12
+355,"El Ogla El Malha",12
+356,Bir-El-Ater,12
+357,Tebessa,12
+358,Hammamet,12
+359,"El Kouif",12
+360,"Bab El Assa",13
+361,"Terny Beni Hediel",13
+362,Mansourah,13
+363,"Beni Mester",13
+364,"Ain Ghoraba",13
+365,Chetouane,13
+366,Amieur,13
+367,"Ain Fezza",13
+368,Honnaine,13
+369,"Beni Khellad",13
+370,"Sidi Djillali",13
+371,Bouihi,13
+372,Nedroma,13
+373,"M'sirda Fouaga",13
+374,"Marsa Ben M'hidi",13
+375,"Sidi Medjahed",13
+376,"Beni Boussaid",13
+377,Sebdou,13
+378,"El Gor",13
+379,"El Aricha",13
+380,Bouhlou,13
+381,Maghnia,13
+382,"Hammam Boughrara",13
+383,Zenata,13
+384,"Ouled Riyah",13
+385,Hennaya,13
+386,"Sidi Abdelli",13
+387,"Souk Tleta",13
+388,Bensekrane,13
+389,Fellaoucene,13
+390,"Ain Kebira",13
+391,"Ain Fetah",13
+392,Tlemcen,13
+393,"Ain Nehala",13
+394,"Ain Tellout",13
+395,"Ain Youcef",13
+396,"Beni Ouarsous",13
+397,"El Fehoul",13
+398,Remchi,13
+399,"Sebbaa Chioukh",13
+400,Souani,13
+401,Sabra,13
+402,"Dar Yaghmoracen",13
+403,Ghazaouet,13
+404,Souahlia,13
+405,Tianet,13
+406,"Beni Smiel",13
+407,"Oued Lakhdar",13
+408,"Ouled Mimoun",13
+409,"Beni Bahdel",13
+410,"Beni Snous",13
+411,Azail,13
+412,Djebala,13
+413,Mahdia,14
+414,"Ain Dzarit",14
+415,Sebaine,14
+416,Faidja,14
+417,"Si Abdelghani",14
+418,Sougueur,14
+419,Tousnina,14
+420,Meghila,14
+421,Sebt,14
+422,"Sidi Hosni",14
+423,"Ain El Hadid",14
+424,Frenda,14
+425,Takhemaret,14
+426,"Ain Kermes",14
+427,"Djebilet Rosfa",14
+428,Madna,14
+429,Medrissa,14
+430,"Sidi Abderrahmane",14
+431,"Ksar Chellala",14
+432,Guertoufa,14
+433,Serghine,14
+434,"Zmalet El Emir Abdelkade",14
+435,"Oued Lilli",14
+436,"Sidi Ali Mellal",14
+437,"Djillali Ben Amar",14
+438,"Mechraa Safa",14
+439,Tagdempt,14
+440,Bougara,14
+441,Hamadia,14
+442,Rechaiga,14
+443,Tidda,14
+444,Nadorah,14
+445,Tiaret,14
+446,Medroussa,14
+447,Mellakou,14
+448,"Sidi Bakhti",14
+449,"Ain Deheb",14
+450,Chehaima,14
+451,Naima,14
+452,"Ain Bouchekif",14
+453,Dahmouni,14
+454,Rahouia,14
+455,Mizrana,15
+456,Idjeur,15
+457,Beni-Douala,15
+458,Beni-Zikki,15
+459,"Illoula Oumalou",15
+460,Agouni-Gueghrane,15
+461,"Ait Bouaddou",15
+462,Ouadhias,15
+463,"Tizi N'tleta",15
+464,Aghribs,15
+465,Ait-Chafaa,15
+466,Akerrou,15
+467,Azeffoun,15
+468,Iflissen,15
+469,Tigzirt,15
+470,"Hussein Dey",16
+471,"Ouled Chebel",16
+472,"Tessala El Merdja",16
+473,Herraoua,16
+474,Reghaia,16
+475,Rouiba,16
+476,"Alger Centre",16
+477,"Oued Smar",16
+478,Baraki,16
+479,"Bordj El Bahri",16
+480,"Bab El Oued",16
+481,"Hassi El Euch",17
+482,"Ain El Ibel",17
+483,"El Guedid",17
+484,Charef,17
+485,Benyagoub,17
+486,"Sidi Baizid",17
+487,Texenna,18
+488,"Bordj T'har",18
+489,"Boudria Beniyadjis",18
+490,"Djemaa Beni Habibi",18
+491,Rosfa,19
+492,"Oued El Bared",19
+493,"Tizi N'bechar",19
+494,Mezloug,19
+495,"Ain Abessa",19
+496,"Ain Arnat",19
+497,Babor,19
+498,Maouaklane,19
+499,Saida,20
+500,Tircine,20
+501,"Djendel Saadi Mohamed",21
+502,Kanoua,21
+503,"Sidi Ali Benyoub",22
+504,"Moulay Slissen",22
+505,Treat,23
+506,Chetaibi,23
+507,"Didouche Mourad",25
+508,"Sidi Zahar",26
+509,"Ouled Antar",26
+510,Fornaka,27
+511,"Oued Taria",29
+512,Ouargla,30
+513,Krakda,32
+514,"Sidi Slimane",32
+515,"Sidi Ameur",32
+516,"In Amenas",33
+517,Illizi,33
+518,Elhammadia,34
+519,Dellys,35
+520,"Ben Choud",35
+521,Afir,35
+522,"El Tarf",36
+523,Zitouna,36
+524,Mediouna,48
+525,"Beni Zentis",48
+526,"Oued El Djemaa",48
